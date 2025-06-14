@@ -1,17 +1,19 @@
-CRUD App – Vue.js + Express
-This is my first CRUD (Create, Read, Update, Delete) project.
-The backend is built with Express.js, and the frontend uses Vue.js.
+- CRUD App – Vue.js + Express
+- This is my first CRUD (Create, Read, Update, Delete) project.
+- The backend is built with Express.js, and the frontend uses Vue.js.
 
 🧪 Features
-Add, edit, and delete products
+- Add, edit, and delete products
 
-Simple interface
+- Simple interface
 
-Note: After adding or editing a product, please refresh the page to see the updated result.
+- Note: After adding or editing a product, please refresh the page to see the updated result.
 
 🚀 How to Run This Project
+
+
 1. Clone the repository
-bash
+```bash
 git clone https://github.com/Ayee813/crud-app.git
 cd crud-app
 
