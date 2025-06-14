@@ -12,7 +12,7 @@ Note: After adding or editing a product, please refresh the page to see the upda
 🚀 How to Run This Project
 1. Clone the repository
 bash
-git clone <your-repo-link>
+git clone https://github.com/Ayee813/crud-app.git
 cd crud-app
 
 2. Start the Backend
